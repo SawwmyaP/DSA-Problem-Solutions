@@ -21,7 +21,7 @@ Every problem here represents a moment of learning which is sometimes quick, som
 
 ## 🎯 Purpose
 
-This repository is maintained to build strong problem-solving skills, improve my logical thinking and practice commonly asked DSA problems and maintain a public record of consistency and growth.
+This repository is maintained to build strong problem solving skills, improve my logical thinking and practice commonly asked DSA problems and maintain a public record of consistency and growth.
 
 ---
 
@@ -51,12 +51,7 @@ Growth, for me, is iterative.
 - Zigzag Pattern
 - Palindromic Number Pyramid 
 
-### Arrays
-- Two Sum  
-- Maximum Subarray (Kadane’s Algorithm)  
-- Move Zeroes  
-- Rotate Array  
-- Majority Element  
+### Arrays 
 
 > as we will move further, more topics and more problems be adding here
 
