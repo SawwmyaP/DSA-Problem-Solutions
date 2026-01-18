@@ -52,6 +52,12 @@ Growth, for me, is iterative.
 - Palindromic Number Pyramid 
 
 ### Arrays 
+- Buy-Sell Stocks
+- Kadane's Algorithm
+- Finding Majority Elements
+- Move Zeros in an Array
+- Rotating an Array
+- Two Sum Problem
 
 > as we will move further, more topics and more problems be adding here
 
