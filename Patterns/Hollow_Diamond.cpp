@@ -2,7 +2,7 @@
 Given an integer n, print a hollow diamond pattern of height 2n−1 using stars.
 
 Approach:
-Construct the upper and lower halves separately. Print stars only at the boundaries of the diamond while filling the inner space with spaces.*/
+Construct the upper and lower halves separately. Print stars only at the boundaries of the diamond while filling the inner space with spaces*/
 
 #include <bits/stdc++.h>
 using namespace std;

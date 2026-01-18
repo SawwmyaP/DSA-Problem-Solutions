@@ -1,9 +1,9 @@
-/* Problem:
+/*Problem:
 Given an integer n, print Pascal’s Triangle with n rows, where each element is the sum of the two elements above it and the first and last elements of every row are 1.
 
 Approach:
 Generate the triangle row by row using nested loops.
-Start each row with 1 and compute subsequent values using the mathematical relation based on the previous value to avoid factorial calculations. */
+Start each row with 1 and compute subsequent values using the mathematical relation based on the previous value to avoid factorial calculations.*/
 
 #include <iostream>
 using namespace std;

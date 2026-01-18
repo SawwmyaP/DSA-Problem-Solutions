@@ -4,6 +4,7 @@ Print a zig-zag pattern using stars for a fixed number of rows.
 Approach:
 Traverse each row and column and print stars only at positions that form a zig-zag shape using conditional checks, printing spaces elsewhere.*/
 
+
 #include <bits/stdc++.h>
 using namespace std;
 

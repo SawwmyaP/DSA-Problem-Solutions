@@ -1,11 +1,10 @@
-/* Problem: 
-Given an integer n, print Floyd’s Triangle consisting of n rows, where numbers are printed continuously starting from 1 in a right-angled triangular form.
+/*Problem:
+Given an integer n, print Floyd’s Triangle consisting of n rows, where numbers are printed continuously starting from 1 in a right-angled triangular form
 
 Approach:
 Use two nested loops to print the pattern.
 Maintain a counter starting from 1 and increment it after printing each number.
-The outer loop controls the number of rows, while the inner loop controls the number of elements in each row.
-*/
+The outer loop controls the number of rows, while the inner loop controls the number of elements in each row.*/
 
 #include <iostream>
 using namespace std;

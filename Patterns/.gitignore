@@ -1,4 +1,0 @@
-#ignoring VSCode extension
-.vscode/
-# Ignore executable files
-*.exe

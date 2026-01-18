@@ -3,7 +3,7 @@ Given an integer n, print a center-aligned star pyramid consisting of n rows usi
 
 Approach:
 Use nested loops to print spaces followed by stars for each row.
-The number of spaces decreases and the number of stars increases as the row number increases, forming a pyramid shape.*/
+The number of spaces decreases and the number of stars increases as the row number increases, forming a pyramid shape*/
 
 #include <iostream>
 using namespace std;

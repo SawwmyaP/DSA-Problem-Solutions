@@ -1,8 +1,9 @@
-/* Problem:
+/*Problem:
 Given an integer n, print a palindromic number pyramid where numbers decrease to 1 and then increase back.
 
 Approach:
 For each row, print leading spaces followed by a decreasing sequence of numbers and then an increasing sequence to form a palindrome.*/
+
 
 #include <bits/stdc++.h>
 using namespace std;

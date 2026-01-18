@@ -4,6 +4,7 @@ Given an integer n, print a pyramid where each row contains numbers starting fro
 Approach:
 Use nested loops where the outer loop controls the rows and the inner loop prints numbers from 1 to the current row index.*/
 
+
 #include <bits/stdc++.h>
 using namespace std;
 

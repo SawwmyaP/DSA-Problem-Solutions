@@ -2,7 +2,7 @@
 Given an integer n, print a butterfly-shaped star pattern that is symmetric both vertically and horizontally.
 
 Approach:
-Divide the pattern into an upper and lower half. For each row, print stars on both sides and spaces in between, increasing and then decreasing the number of stars to maintain symmetry. */
+Divide the pattern into an upper and lower half. For each row, print stars on both sides and spaces in between, increasing and then decreasing the number of stars to maintain symmetry.*/
 
 #include <bits/stdc++.h>
 using namespace std;
