@@ -45,6 +45,9 @@ Growth, for me, is iterative.
 ## 📂 Topics Covered & Problems
 
 ### Patterns
+- Pascal's Triangle
+- Floyd's Triangle
+- Star Pyramid
 - Butterfly Pattern
 - Hollow Diamond
 - Number Pyramid
@@ -59,7 +62,21 @@ Growth, for me, is iterative.
 - Rotating an Array
 - Two Sum Problem
 
-> as we will move further, more topics and more problems be adding here
+### Strings
+- Valid Palindrome
+- Valid Anagram
+- First Unique Character
+- Reversing a String
+- Longest Common Prefix
+
+### Linked Lists
+- Reversed Linked List
+- Middle element of a Linked List
+- Merged Sorted Linked List
+- Detect Cycle
+- Remove nth node of a LL
+
+> as we will move further, more topics and more problems be adding here (more problems for each topic as well)
 
 
 Each file usually contains:
