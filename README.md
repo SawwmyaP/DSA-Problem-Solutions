@@ -61,6 +61,9 @@ Growth, for me, is iterative.
 - Move Zeros in an Array
 - Rotating an Array
 - Two Sum Problem
+- Finding Missing Number
+- Remove Duplicate Elements
+- Maximum Product
 
 ### Strings
 - Valid Palindrome
