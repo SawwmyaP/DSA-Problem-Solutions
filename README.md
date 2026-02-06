@@ -38,7 +38,6 @@ Growth, for me, is iterative.
 
 ## 🛠️ Language & Tools
 - **Programming Language:** C++
-- **Libraries Used:** Standard Template Library (STL)
 
 ---
 
@@ -53,6 +52,8 @@ Growth, for me, is iterative.
 - Number Pyramid
 - Zigzag Pattern
 - Palindromic Number Pyramid 
+- Right Angle Triangle
+- Solid Square
 
 ### Arrays 
 - Buy-Sell Stocks
@@ -64,6 +65,13 @@ Growth, for me, is iterative.
 - Finding Missing Number
 - Remove Duplicate Elements
 - Maximum Product
+- Find Missing Positive
+- Rotate Matrix
+- Saddle Point
+- Sparse Matrix
+- Spiral Matrix
+- Transpose Matrix
+- Trapping Rainwater
 
 ### Strings
 - Valid Palindrome
@@ -71,6 +79,13 @@ Growth, for me, is iterative.
 - First Unique Character
 - Reversing a String
 - Longest Common Prefix
+- Balanced Parentheses
+- String Rotation Check
+- Substring with Concatenation
+- Minimun Window Substring
+- Reverse Words in String
+- Longest Unrepeated Substring
+- Numeric String
 
 ### Linked Lists
 - Reversed Linked List
@@ -78,6 +93,22 @@ Growth, for me, is iterative.
 - Merged Sorted Linked List
 - Detect Cycle
 - Remove nth node of a LL
+- Remove Duplicates in a LL
+- Length of a LL
+- Reversing k Nodes in a LL
+- Intersection of a LL
+- Search for Elements
+- Split Circular LL
+
+### Stacks
+- Decimal to Binary
+- Stack using Arrays
+- Sorted Stack
+- Next Greater Element
+- Reversing a String using Stacks
+- Stock Span
+- Infix to Prefix
+- Infix to Postfix
 
 > as we will move further, more topics and more problems be adding here (more problems for each topic as well)
 
